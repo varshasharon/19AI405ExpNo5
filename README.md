@@ -1,6 +1,6 @@
 <h1>ExpNo 5 : Implement Simple Hill Climbing Algorithm</h1> 
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
+<h3>Name: E Varsha Sharon</h3>
+<h3>Register Number: 212222100058</h3>
 <H3>Aim:</H3>
 <p>Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration </p>
 <h2> Theory: </h2>
@@ -40,8 +40,9 @@ Feedback is provided in terms of heuristic function
 
 <hr>
 <h2>Sample Input and Output</h2>
-<h2>Sample String:</h2> Artificial Intelligence
-<h2>Output:</h2>
+Sample String: Artificial Intelligence
+
+### Output
 Score: 643  Solution :  8RzF:oG ]%;CPORRMe!zGvk<br>
 Score: 609  Solution :  8RzF:oG ]%;CPqRRMe!zGvk<br>
 Score: 604  Solution :  8RzF:oG ]%;CPqRRMe!zGqk<br>
@@ -59,3 +60,6 @@ Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 0  Solution :  Artificial Intelligence<br>
+
+## Result:
+The Simple Hill Climbing Algorithm and to generate a String by Mutating a Single Character is successfully implemented.
