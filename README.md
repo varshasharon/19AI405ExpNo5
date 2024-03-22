@@ -27,7 +27,6 @@ Feedback is provided in terms of heuristic function
 </ol>
 
 </p>
-<hr>
 <h3> Steps Applied:</h3>
 <h3>Step-1</h3>
 <p> Generate Random String of the length equal to the given String</p>
@@ -38,8 +37,7 @@ Feedback is provided in terms of heuristic function
 <h3>Step-4:</h3>
 <p> Lopp Step -2 and Step-3  until we achieve the score to be Zero to achieve Global Minima.</p>
 
-<hr>
-<h2>Sample Input and Output</h2>
+## Sample Input and Output
 Sample String: Artificial Intelligence
 
 ### Output
